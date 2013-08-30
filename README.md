@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # [Bootstrap](http://getbootstrap.com) [![Build Status](https://secure.travis-ci.org/twbs/bootstrap.png)](http://travis-ci.org/twbs/bootstrap) [![devDependency Status](https://david-dm.org/twbs/bootstrap/dev-status.png)](https://david-dm.org/twbs/bootstrap#info=devDependencies)
+=======
+# [Bootstrap v2.3.2](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
+>>>>>>> d991ef2ab1b4d156c7e5d33d052d66f8eaafc460
 
 Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created and maintained by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat).
 
@@ -10,9 +14,15 @@ To get started, check out [http://getbootstrap.com](http://getbootstrap.com)!
 
 Three quick start options are available:
 
+<<<<<<< HEAD
 * [Download the latest release](https://github.com/twbs/bootstrap/releases/tag/v3.0.0).
 * Clone the repo: `git clone git://github.com/twbs/bootstrap.git`.
 * Install with [Bower](http://bower.io): `bower install bootstrap`.
+=======
+* [Download the latest release](https://github.com/twitter/bootstrap/zipball/master).
+* Clone the repo: `git clone git://github.com/twitter/bootstrap.git`.
+* Install with Twitter's [Bower](http://bower.io): `bower install bootstrap`.
+>>>>>>> d991ef2ab1b4d156c7e5d33d052d66f8eaafc460
 
 Read the [Getting Started page](http://getbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
 
